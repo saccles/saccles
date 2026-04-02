@@ -38,10 +38,12 @@ A Computer Science student from the United States of America with a passion for 
 
 ## Languages and Development Tools
 * Python
+* C
 * Java
 * x86-64 Assembly
 * PHP
 * HTML
+* JavaScript
 * Bash
 * PowerShell
 * Git
