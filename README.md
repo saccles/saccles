@@ -46,6 +46,7 @@ A Computer Science student from the United States of America with a passion for 
 * JavaScript
 * Bash
 * PowerShell
+* Command Prompt
 * Git
 * Visual Studio Code
 * NetBeans
